@@ -1,4 +1,3 @@
-# Is Blacket Down Now?
 
 # Yes.
     
@@ -13,6 +12,6 @@
   | Blacket Legacy | No. | 🟩 200 OK |
   | Sqar Spungle   | No. | 🟩 200 OK |
   
-  ### Xotic's services are **💚 operational.**   
+  # Xotic's services are **💚 operational.**   
     
   ## All servers have been up for ~10 minutes.
