@@ -1,5 +1,5 @@
 
-# Yes.
+# No.
     
   This repository checks all of Xotic's public services to see if they are responsive.   
   Please stop asking us why Blacket is down. This shows you why.   
@@ -12,6 +12,6 @@
   | Blacket Legacy | No. | 🟩 200 OK |
   | Sqar Spungle   | No. | 🟩 200 OK |
   
-  # Xotic's services are **💚 operational.**   
+  Xotic's services are **💚 operational.**   
     
-  ## All servers have been up for ~10 minutes.
+  All servers have been up for ~10 minutes.
