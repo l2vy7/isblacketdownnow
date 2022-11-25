@@ -14,4 +14,4 @@
   
   Xotic's services are **💚 operational.**   
     
-  All servers have been up for ~192 minutes.
+  All servers have been up for ~4 minutes.
