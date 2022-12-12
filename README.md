@@ -1,3 +1,5 @@
+# bot is dead. please move on.
+
 # Are Xotic's services down now?
 # No.
     
